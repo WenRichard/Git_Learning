@@ -1,7 +1,6 @@
 # Git_Learning
-Some excited Git_Learning  
+&nbsp;Some excited Git_Learning operation and command
 
-&nbsp;&nbsp;总结常用的Git操作及命令，主要来自于廖老师的网站。</br>
 ## 内容列表
 1. 文件的修改、回退、删除等
 2. 远程仓库的相关操作
