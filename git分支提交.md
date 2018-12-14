@@ -27,6 +27,9 @@
 * #### 接下来要做的是将test分支合并到master上
   git merge test
 
+* #### 查看分支中内容提交的状态  
+  git status  
+
 * #### 最后一步，我们把修改的内容提交到主分支上
   git push origin master
 
