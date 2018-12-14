@@ -14,9 +14,9 @@
   git push origin test
 
 * #### 提交当前分支信息
-  注：可通过 ls 查看目录，cat查看文件具体信息
-  git add 1.txt
-  git commit -m"update"
+  注：可通过 ls 查看目录，cat查看文件具体信息  
+  git add 1.txt  
+  git commit -m"update"  
 
 * #### 切回master分支
   git checkout master
