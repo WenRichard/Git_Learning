@@ -11,6 +11,7 @@
 1. git上传文件
 2. git添加图片
 3. git分支提交
+4. git删除文件夹  
 ---------------------------- 
 **不定时更新，欢迎Fork和Star！**  
 **留言请在Issues或者email xiezhengwen2013@163.com**
